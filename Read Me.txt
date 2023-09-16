@@ -1,0 +1,28 @@
+Case Study: Upload an Image to search  
+
+Problem Statement:  
+
+To search a given image with google search by uploading an image and find results.  
+
+Suggested site:  “http://google.com”  
+
+Note: Any image in your system can be used. 
+
+Detailed Description: 
+   
+1)Open the google search page in the specified Browser 
+2)Navigate to Images, click on Camara link to search by Image  
+3)Select the “Upload an image” option in Search by Image window
+4)Upload one image from the pictures folder (or from any folder in your system)
+5)Validate message “About xxxx reults in (xx seconds)” on top left side of the page
+6)Click on “Tools” and select “Custom range…” from the Time dropdown list
+7)Enter “From” date, “To” date and click on “GO” (Use any past dates with minimum span of One month)
+8)Validate the results
+9)Take the screenshot for the search result 
+10)Close the Browser     
+
+Prerequisite:
+
+1)Download image file and provided the path.
+
+
